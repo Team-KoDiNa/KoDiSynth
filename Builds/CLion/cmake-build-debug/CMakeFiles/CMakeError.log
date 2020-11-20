@@ -1,0 +1,16 @@
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/서브 드라이브/실행파일/code/Synth/Builds/CLion/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe cmTC_58abb/fast && C:/PROGRA~1/MINGW-~1/X86_64~1.0-W/mingw64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_58abb.dir\build.make CMakeFiles/cmTC_58abb.dir/build
+mingw32-make.exe[1]: Entering directory 'C:/서브 드라이브/실행파일/code/Synth/Builds/CLion/cmake-build-debug/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_58abb.dir/testCCompiler.c.obj
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-W\mingw64\bin\gcc.exe    -o CMakeFiles\cmTC_58abb.dir\testCCompiler.c.obj   -c "C:\?쒕툕 ?쒕씪?대툕\?ㅽ뻾?뚯씪\code\Synth\Builds\CLion\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+gcc.exe: error: C:\?쒕툕 ?쒕씪?대툕\?ㅽ뻾?뚯씪\code\Synth\Builds\CLion\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: Invalid argument
+gcc.exe: fatal error: no input files
+compilation terminated.
+mingw32-make.exe[1]: *** [CMakeFiles\cmTC_58abb.dir\build.make:85: CMakeFiles/cmTC_58abb.dir/testCCompiler.c.obj] Error 1
+mingw32-make.exe[1]: Leaving directory 'C:/서브 드라이브/실행파일/code/Synth/Builds/CLion/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe: *** [Makefile:140: cmTC_58abb/fast] Error 2
+
+
+
